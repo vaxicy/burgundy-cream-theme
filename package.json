@@ -1,0 +1,28 @@
+{
+  "name": "burgundy-cream-theme",
+  "displayName": "Burgundy Cream Theme",
+  "description": "A warm vintage theme in burgundy, cream and camel, with light and dark variants.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Burgundy Cream Light",
+        "uiTheme": "vs",
+        "path": "./themes/burgundy-cream-light-color-theme.json"
+      },
+      {
+        "label": "Burgundy Cream Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/burgundy-cream-dark-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "lilinhuang",
+  "icon": "assets/icon.png"
+}
