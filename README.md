@@ -14,6 +14,16 @@
 
 A warm vintage VS Code theme built around burgundy, cream and camel tones. Ships with a **Burgundy Cream Light** and a **Burgundy Cream Dark** variant, covering both the workbench UI and syntax highlighting.
 
+## 预览 · Preview
+
+| 浅色 Light | 深色 Dark |
+| --- | --- |
+| ![Burgundy Cream Light](store-assets/screenshots/en/screenshot-light.png) | ![Burgundy Cream Dark](store-assets/screenshots/en/screenshot-dark.png) |
+
+浅色主题以奶油米白作编辑器底色、深红棕作正文，莓酒红贯穿活动栏、状态栏与标题栏；深色主题则翻转为底色 `#261719`、莓酒红活动栏搭配桃粉强调，长时间阅读依旧柔和护眼。
+
+The light variant uses cream as the editor background and deep brown as text, with burgundy running through the activity bar, status bar and title bar. The dark variant flips to a `#261719` base with a burgundy activity bar and pink accents — easy on the eyes during long sessions.
+
 ## 配色 · Color Palette
 
 | 角色 Role | 名称 Name | 色值 Hex |
@@ -24,10 +34,6 @@ A warm vintage VS Code theme built around burgundy, cream and camel tones. Ships
 | 正文（浅色）Text | 深红棕 Deep brown | `#541A1A` |
 | 主强调（深色）Dark accent | 桃粉 Pink | `#E794B0` |
 | 背景（深色）Dark bg | 深褐 Dark brown | `#261719` |
-
-浅色主题以奶油米白作编辑器底色、深红棕作正文，莓酒红贯穿活动栏、状态栏与标题栏；深色主题则翻转为底色 `#261719`、莓酒红活动栏搭配桃粉强调，长时间阅读依旧柔和护眼。
-
-The light variant uses cream as the editor background and deep brown as text, with burgundy running through the activity bar, status bar and title bar. The dark variant flips to a `#261719` base with a burgundy activity bar and pink accents — easy on the eyes during long sessions.
 
 ## 特性 · Features
 
@@ -60,8 +66,11 @@ Search for `Burgundy Cream Theme` in the Extensions view, or open the link above
 burgundy-cream-theme/
 ├── package.json                         # 扩展清单
 ├── README.md
+├── LICENSE.md                          # 非商业许可
 ├── assets/
 │   └── icon.png                         # 商店图标
+├── store-assets/
+│   └── screenshots/en/                  # 预览截图
 └── themes/
     ├── burgundy-cream-light-color-theme.json
     └── burgundy-cream-dark-color-theme.json
