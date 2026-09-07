@@ -67,8 +67,6 @@ burgundy-cream-theme/
     └── burgundy-cream-dark-color-theme.json
 ```
 
-## 说明 · Notes
+## License
 
-首次发布到 Marketplace 前，可补充商店预览截图（screenshots）与宣传图（promo）以提升列表展示效果；本仓库当前已具备图标与完整配色，可直接打包分发。
-
-Before the first Marketplace release you may add store screenshots and promo tiles for a richer listing. The package already ships with an icon and complete theming, so it is ready to be packaged as-is.
+Non-Commercial License — see `LICENSE.md`.
