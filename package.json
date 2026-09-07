@@ -2,7 +2,7 @@
   "name": "burgundy-cream-theme",
   "displayName": "Burgundy Cream Theme",
   "description": "A warm vintage theme in burgundy, cream and camel, with light and dark variants.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.80.0"
   },
